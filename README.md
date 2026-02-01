@@ -1,4 +1,4 @@
-#Word Bomb Macro
+# Word Bomb Macro
 
 // This has been a recreation of another program made by @isarsindri so some credit to him! But I have made a lot of changes.
 
