@@ -26,4 +26,8 @@ Press F1 while in Roblox Word Bomb.
 
 The macro automatically types the word instantly.
 
+
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/b392f1e3-b62f-4ee4-9de7-3e4375387a52" />
+
+
 Disclaimer: Use responsibly and be aware of game rules. This tool is meant for personal convenience and learning purposes.
