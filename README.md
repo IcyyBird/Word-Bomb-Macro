@@ -1,4 +1,6 @@
- This has been a recreation of another program made by @isarsindri so some credit to him! But I have made a lot of changes.
+#Word Bomb Macro
+
+// This has been a recreation of another program made by @isarsindri so some credit to him! But I have made a lot of changes.
 
 This is a macro tool designed to help users automate typing in Roblox Word Bomb, allowing for faster and more efficient gameplay. With this tool, you can input a specific letter combination in the application's search bar, and then, by pressing F1, the macro will automatically type the word at super speed.
 
